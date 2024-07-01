@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! ¡Hola! 👽
+
+🌱 I’m currently learning Python.
+
+Thank you for watching 👁️ 
 
 <!--
 **Adrou/Adrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
