@@ -1,6 +1,6 @@
 ## Hi! ¡Hola! 👽
 
-🌱 I’m currently learning Python.
+🌱 I’m currently learning Python & 3D Print with Creality K1C.
 
 Thank you for watching 👁️ 
 
