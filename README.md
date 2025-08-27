@@ -1,6 +1,6 @@
 ## Hi! ¡Hola! 👽
 
-🌱 I’m currently learning Python & 3D Print with Creality K1C.
+🌱 I’m currently learning> JavaScript
 
 Thank you for watching 👁️ 
 
